@@ -30,7 +30,7 @@ More details on these parameters can be found in Section 5 of the paper.
 
 The following line performs 10 tests of our bivariate comparison circuit comparing vectors of length 3 over the finite field of order 49.
   
-    ./comparison_circuit B 7 2 300 90 3 10 y
+    ./comparison_circuit B 7 2 300 140 3 1 y
 
 ### Sorting
 The sorting algorithm can be executed by the following line
